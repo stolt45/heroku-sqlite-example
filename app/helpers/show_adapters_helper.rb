@@ -1,0 +1,2 @@
+module ShowAdaptersHelper
+end
