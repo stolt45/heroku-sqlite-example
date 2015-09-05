@@ -1,0 +1,3 @@
+[submodule "heroku-sqlite3"]
+	path = heroku-sqlite3
+	url = https://github.com/stolt45/heroku-sqlite3.git
