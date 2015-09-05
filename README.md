@@ -1,6 +1,6 @@
 # Heroku Sqlite Example App
 
-This is a simple rails app that's connecting to a sqlite database. 
+This is a simple rails app that's connecting to a sqlite database. You can see it working at https://heroku-sqlite-example.herokuapp.com
 
 ### Why the submodule?
 
